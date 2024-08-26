@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>Nyxs_Tools</PackageId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <Authors>Nyx Strong</Authors>
     <Company>Nyxian Studios</Company>
     <PackageDescription>A set of tools for me to use across different applications</PackageDescription>
