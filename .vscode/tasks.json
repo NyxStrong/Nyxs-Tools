@@ -8,5 +8,3 @@
 		}
 	]
 }
-// dotnet pack -c Release
-// dotnet nuget push "Nyxs Tools/bin/Release/Nyxs_Tools.1.0.0.nupkg" --source "github"
